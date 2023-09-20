@@ -1,3 +1,3 @@
 ## Создание страницы с помощью  parallax effects
  
-- [Fairy forest](dashmenko.github.io/Fairy-forest/)
+- [Fairy forest](http://dashmenko.github.io/Fairy-forest/)
